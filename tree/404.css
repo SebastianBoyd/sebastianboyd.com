@@ -1,0 +1,24 @@
+body {
+	background-color: #000;
+}
+h1 {
+	font-size: 500%;
+	color: #fff;	
+}
+p {
+	font-size: 20px;
+	color: #fff;
+}
+
+canvas{
+	display: block;
+	vertical-align:bottom;
+}
+#particles-js {
+	position: absolute;
+	width: 100%;
+	right: 0;
+	left: 0;
+	margin: auto;
+	opacity: 1;
+}
